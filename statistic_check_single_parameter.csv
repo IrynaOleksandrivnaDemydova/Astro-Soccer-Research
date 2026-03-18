@@ -1,0 +1,5 @@
+variable,χ² p-value (all groups),χ² p-value GK vs Field,χ² p-value GK vs Control,Fisher p-value GK vs Field,Fisher p-value GK vs Control,GK %,Field %,Control %
+Mars-Uranus Dispositorship/Reception,0.019,0.017,1.0,0.015,1.0,40.0,10.0,36.7
+Bellatrix Star,0.036,0.47,0.031,0.472,0.024,20.0,10.0,0.0
+House 1-10 Count,0.054,0.034,0.171,0.033,0.17,76.7,46.7,56.7
+House 1-10 Connections,0.054,0.034,0.171,0.033,0.17,76.7,46.7,56.7

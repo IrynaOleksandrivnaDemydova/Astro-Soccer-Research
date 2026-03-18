@@ -1,0 +1,35 @@
+﻿block,GK n,GK %,Out %,Ctrl %
+Mercury-Mars + Mercury-Uranus,3,10.0,6.7,6.7
+Mercury-Mars + Mercury-Pluto,3,10.0,10.0,10.0
+Mercury-Mars + Mars-Uranus,3,10.0,6.7,6.7
+Mercury-Mars + Mars-Pluto,2,6.7,16.7,10.0
+Mercury-Mars + Mars-Moon,3,10.0,13.3,6.7
+Mercury-Uranus + Mercury-Saturn,1,3.3,16.7,3.3
+Mercury-Uranus + Mercury-Pluto,5,16.7,13.3,6.7
+Mercury-Uranus + Mars-Uranus,3,10.0,6.7,3.3
+Mercury-Uranus + Mars-Pluto,2,6.7,20.0,10.0
+Mercury-Uranus + Mars-Moon,2,6.7,13.3,6.7
+Mercury-Saturn + Mars-Moon,1,3.3,10.0,6.7
+Mercury-Pluto + Mars-Uranus,1,3.3,13.3,10.0
+Mercury-Pluto + Mars-Pluto,3,10.0,10.0,10.0
+Mercury-Pluto + Mars-Moon,5,16.7,16.7,13.3
+Mars-Uranus + Mars-Pluto,2,6.7,6.7,0.0
+Mars-Uranus + Mars-Moon,3,10.0,13.3,10.0
+Mars-Pluto + Mars-Moon,3,10.0,16.7,10.0
+Mercury-Mars + Mercury-Uranus + Mercury-Pluto,1,3.3,6.7,3.3
+Mercury-Mars + Mercury-Uranus + Mars-Uranus,2,6.7,3.3,3.3
+Mercury-Mars + Mercury-Uranus + Mars-Pluto,1,3.3,6.7,3.3
+Mercury-Mars + Mercury-Pluto + Mars-Pluto,2,6.7,10.0,6.7
+Mercury-Mars + Mercury-Pluto + Mars-Moon,2,6.7,6.7,3.3
+Mercury-Mars + Mars-Uranus + Mars-Moon,1,3.3,6.7,0.0
+Mercury-Mars + Mars-Pluto + Mars-Moon,1,3.3,13.3,6.7
+Mercury-Uranus + Mercury-Pluto + Mars-Uranus,1,3.3,6.7,3.3
+Mercury-Uranus + Mercury-Pluto + Mars-Pluto,2,6.7,6.7,0.0
+Mercury-Uranus + Mercury-Pluto + Mars-Moon,2,6.7,3.3,0.0
+Mercury-Uranus + Mars-Uranus + Mars-Pluto,1,3.3,3.3,0.0
+Mercury-Pluto + Mars-Uranus + Mars-Pluto,1,3.3,3.3,0.0
+Mercury-Pluto + Mars-Pluto + Mars-Moon,1,3.3,6.7,3.3
+Mars-Uranus + Mars-Pluto + Mars-Moon,1,3.3,6.7,0.0
+Mercury-Mars + Mercury-Uranus + Mercury-Pluto + Mars-Pluto,1,3.3,6.7,0.0
+Mercury-Mars + Mercury-Pluto + Mars-Pluto + Mars-Moon,1,3.3,6.7,3.3
+Mercury-Uranus + Mercury-Pluto + Mars-Uranus + Mars-Pluto,1,3.3,3.3,0.0
